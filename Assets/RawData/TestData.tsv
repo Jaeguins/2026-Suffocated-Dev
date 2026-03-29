@@ -1,0 +1,3 @@
+int	string	float	float-list	int-list	string-list	long	long-list
+ID	Name	Power	Scores	Attributes	Prefix	LongValue	LongListValues
+1234	가나다	4.5	1.2,3.6	1,5,9	A,BB,CCC	12345678910	12345678910,10987654321
